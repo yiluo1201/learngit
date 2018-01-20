@@ -1,0 +1,11 @@
+E:\Example\asp.net.code\asp.net.code\asp.net.code\bin\Debug\netcoreapp2.0\asp.net.code.deps.json
+E:\Example\asp.net.code\asp.net.code\asp.net.code\bin\Debug\netcoreapp2.0\asp.net.code.runtimeconfig.json
+E:\Example\asp.net.code\asp.net.code\asp.net.code\bin\Debug\netcoreapp2.0\asp.net.code.runtimeconfig.dev.json
+E:\Example\asp.net.code\asp.net.code\asp.net.code\bin\Debug\netcoreapp2.0\asp.net.code.dll
+E:\Example\asp.net.code\asp.net.code\asp.net.code\bin\Debug\netcoreapp2.0\asp.net.code.pdb
+E:\Example\asp.net.code\asp.net.code\asp.net.code\obj\Debug\netcoreapp2.0\asp.net.code.csprojResolveAssemblyReference.cache
+E:\Example\asp.net.code\asp.net.code\asp.net.code\obj\Debug\netcoreapp2.0\asp.net.code.csproj.CoreCompileInputs.cache
+E:\Example\asp.net.code\asp.net.code\asp.net.code\obj\Debug\netcoreapp2.0\asp.net.code.AssemblyInfoInputs.cache
+E:\Example\asp.net.code\asp.net.code\asp.net.code\obj\Debug\netcoreapp2.0\asp.net.code.AssemblyInfo.cs
+E:\Example\asp.net.code\asp.net.code\asp.net.code\obj\Debug\netcoreapp2.0\asp.net.code.dll
+E:\Example\asp.net.code\asp.net.code\asp.net.code\obj\Debug\netcoreapp2.0\asp.net.code.pdb
